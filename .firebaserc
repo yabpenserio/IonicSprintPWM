@@ -1,0 +1,14 @@
+{
+  "targets": {
+    "ionicsprint": {
+      "hosting": {
+        "app": [
+          "ionicsprint"
+        ]
+      }
+    }
+  },
+  "projects": {
+    "default": "ionicsprint"
+  }
+}
